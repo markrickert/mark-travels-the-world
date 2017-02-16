@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Mark Travels The World"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Mark Rickert"
+description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,22 +77,22 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Mark Rickert"
+  avatar           : "/assets/images/mark-rickert.jpg"
+  bio              : "Skydiving, wingsuit flying, BASE jumping, and travel. I'm a digital nomad and live full time in a solar powered Sprinter van."
+  location         : "Somewhere in the world"
   email            :
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : markrickert
   foursquare       :
   github           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : markrickert
   lastfm           :
   linkedin         :
   pinterest        :
@@ -104,7 +104,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          :
 
 
 # Reading Files
@@ -244,3 +244,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
