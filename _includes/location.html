@@ -1,0 +1,48 @@
+<script type="text/javascript" src="{{ '/assets/js/parse-address.min.js' | absolute_url }}"></script>
+<script>
+$(document).ready(function() {
+  $.ajax({
+    type: "GET",
+    url: "https://dl.dropboxusercontent.com/u/12954/Automatic/automatictrips.csv.txt",
+    dataType: "text",
+    success: function(data) {processTripData(data);}
+   });
+});
+
+function processTripData(allText) {
+  var allTextLines = allText.split(/\r\n|\n/);
+  var latest = allTextLines[allTextLines.length -1].split(',')
+
+  getAddressFromLatLong(latest[7].trim(), latest[8].trim());
+}
+
+function getAddressFromLatLong(latitude,longitude){
+  var geocodeURL = 'https://maps.googleapis.com/maps/api/geocode/json?key=AIzaSyCRtk8oznJyh2XCfWD8s-6Q_oGYn7mZu_0&latlng='+latitude+','+longitude + '&result_type=street_address';
+  $.ajax({
+    type: 'GET',
+    url: geocodeURL,
+    dataType: 'json',
+    success: function(data) {processLocationData(data);}
+   });
+}
+
+function processLocationData(json_data) {
+  var address = json_data['results'][0]['formatted_address']
+  var split = address.split(", ")
+
+  // Remove ", USA" from the end of the address
+  if(split[split.length - 1] == "USA") {
+    split.pop()
+    address = split.join(", ")
+  }
+
+  var parsed = parseAddress.parseLocation(address);
+  if(typeof parsed['city'] !== 'undefined' && typeof parsed['state'] !== 'undefined') {
+    // Change the DOM
+    $('.authorLocation').text(parsed['city'] + ", " + parsed['state'])
+  } else {
+    // Otherwise hide is
+    $('.locationWrapper').hide()
+  }
+}
+</script>
