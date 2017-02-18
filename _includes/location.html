@@ -5,7 +5,8 @@ $(document).ready(function() {
     type: "GET",
     url: "https://dl.dropboxusercontent.com/u/12954/Automatic/automatictrips.csv.txt",
     dataType: "text",
-    success: function(data) {processTripData(data);}
+    success: function(data) { processTripData(data); },
+    error: function(xhr) { $('.locationWrapper').hide(); }
    });
 });
 
