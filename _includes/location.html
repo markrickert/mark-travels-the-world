@@ -40,7 +40,9 @@ function processLocationData(json_data) {
   var parsed = parseAddress.parseLocation(address);
   if(typeof parsed['city'] !== 'undefined' && typeof parsed['state'] !== 'undefined') {
     // Change the DOM
-    $('.authorLocation').text(parsed['city'] + ", " + parsed['state'])
+    var link = '<a href="https://www.google.com/maps/place/' + parsed['city'] + ",+" + parsed['state'] + '" target="_blank" rel="nofollow" style="display:inline;">' + parsed['city'] + ", " + parsed['state'] + '</a>';
+
+    $('.authorLocation').html(link)
   } else {
     // Otherwise hide is
     $('.locationWrapper').hide()
