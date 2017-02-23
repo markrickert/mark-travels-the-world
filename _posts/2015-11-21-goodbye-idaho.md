@@ -8,6 +8,9 @@ tags:
 - nomadlife
 - snake river
 - twinfalls
+header:
+  teaser: /assets/images/2015-11-21-goodbye-idaho/idaho2.jpg
+teaser_on_page: false
 gallery:
   - url: /assets/images/2015-11-21-goodbye-idaho/idaho2.jpg
     image_path: /assets/images/2015-11-21-goodbye-idaho/idaho2-th.jpg

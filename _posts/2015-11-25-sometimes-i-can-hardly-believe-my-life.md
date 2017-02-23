@@ -10,9 +10,9 @@ tags:
 - skydiving
 - inspiration
 - squirrel
+header:
+  teaser: /assets/images/2015-11-25-sometimes-i-can-hardly-believe-my-life/life.jpg
 ---
-
-![]({{ site.url }}/assets/images/2015-11-25-sometimes-i-can-hardly-believe-my-life/life.jpg)
 
 Sometimes I can hardly believe my life. I've got a great career that affords me the ability to travel and do what I love on an almost daily basis, amazing friends from all over the world, and the best family anyone could ever ask for.
 

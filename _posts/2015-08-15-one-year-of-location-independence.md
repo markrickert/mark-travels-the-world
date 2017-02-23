@@ -6,6 +6,8 @@ tags:
 - rv
 - nomadlife
 - reflections
+header:
+  teaser: /assets/images/2015-08-15-one-year-of-location-independence/on_the_road.jpg
 ---
 
 Today - August 15, 2015 - marks the 1 year anniversary of my location independence! I've been living in my Class B motorhome and haven't missed living in a sticks-n-bricks home one single iota<sup>1</sup>.
