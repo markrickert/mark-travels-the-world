@@ -34,8 +34,8 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
-        {% if page.header.teaser %}
-          <img src="{{ site.url }}{{ page.header.teaser }}" alt="{{ page.title }}" />
+        {% if page.header.teaser and page.teaser_on_page != false %}
+          <p><img src="{{ site.url }}{{ page.header.teaser }}" alt="{{ page.title }}" /></p>
         {% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
