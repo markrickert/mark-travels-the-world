@@ -6,9 +6,9 @@ tags:
 - rv
 - nomadlife
 - digital nomad
+header:
+  teaser: /assets/images/2014-10-13-homeless-by-choice/map.jpg
 ---
-
-![Map of my travels]({{ site.url }}/assets/images/2014-10-13-homeless-by-choice/map.png)
 
 Well... I’m houseless. My home is a Roadtrek ‘98 Dodge Ram van converted to a motorhome by [some fine folks in Canada](http://www.roadtrek.com/).
 
