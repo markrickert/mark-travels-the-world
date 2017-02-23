@@ -11,7 +11,8 @@ tags:
 - flysquirrel
 - outlaw
 - mineral bottom
-top_image: /assets/images/2016-02-18-marys-gash/marys-gash.jpg
+header:
+  teaser: /assets/images/2016-02-18-marys-gash/marys-gash.jpg
 ---
 
 Mary’s Gash is one of my favorite exit points in Moab. Easy hike, amazing views, long canopy ride, and you can take some freefall time.
