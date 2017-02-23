@@ -11,7 +11,6 @@ tags:
 - glass
 - shatter
 - robbery
-tumblr_url: http://blog.markrickert.me/post/133022795638/rv-home-invasion
 ---
 
 KNOCK! KNOCK!

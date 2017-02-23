@@ -9,7 +9,6 @@ tags:
 - squirrel
 - base
 - flysquirrel
-tumblr_url: http://blog.markrickert.me/post/138157584168/just-got-to-coolest-new-jacket-and-pair-of-pants
 ---
 
 ![]({{ site.url }}/assets/images/2016-01-27-just-got-the-coolest-new-jacket-and-pants/sumo.jpg)
