@@ -42,6 +42,16 @@
   img {
     width: 100%;
   }
+
+  .amazon {
+    font-size: $type-size-8;
+    line-height: 1.5;
+
+    img {
+      width: unset;
+      margin-top: 30px;
+    }
+  }
 }
 
 .sidebar__right {
