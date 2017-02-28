@@ -2,6 +2,7 @@
 layout: single
 title: Sometimes I Can Hardly Believe My Life
 date: '2015-11-25T11:01:33-05:00'
+byline: true
 tags:
 - nomadlife
 - base

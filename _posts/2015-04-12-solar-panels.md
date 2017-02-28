@@ -2,6 +2,7 @@
 layout: single
 title: Solar Panels
 date: '2015-04-12T18:48:48-04:00'
+byline: true
 tags:
 - rv
 - classb

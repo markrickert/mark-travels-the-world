@@ -2,6 +2,7 @@
 layout: single
 title: One Year of Location Independence
 date: '2015-08-15T08:24:15-04:00'
+byline: true
 tags:
 - rv
 - nomadlife

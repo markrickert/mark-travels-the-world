@@ -2,6 +2,7 @@
 layout: single
 title: One Month Living in a Van
 date: '2014-09-15T22:00:00-04:00'
+byline: true
 tags:
 - rv
 - nomadlife

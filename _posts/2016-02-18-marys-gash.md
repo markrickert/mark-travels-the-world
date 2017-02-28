@@ -2,6 +2,7 @@
 layout: single
 title: Mary's Gash
 date: '2016-02-18T17:13:20-05:00'
+byline: true
 tags:
 - base
 - basejumping

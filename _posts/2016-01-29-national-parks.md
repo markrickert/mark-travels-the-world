@@ -3,6 +3,7 @@ layout: single
 
 title: National Parks
 date: '2016-01-29T10:35:59-05:00'
+byline: true
 tags:
 - vagabond
 - vanlife

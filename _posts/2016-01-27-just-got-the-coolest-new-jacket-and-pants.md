@@ -3,6 +3,7 @@ layout: single
 
 title: Just Got The Coolest New Jacket and Pants
 date: '2016-01-27T09:48:56-05:00'
+byline: true
 tags:
 - sumo
 - tracking

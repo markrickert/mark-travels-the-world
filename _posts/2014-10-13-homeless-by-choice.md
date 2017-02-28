@@ -2,6 +2,7 @@
 layout: single
 title: Homeless By Choice
 date: '2014-10-13T22:00:00-04:00'
+byline: true
 tags:
 - rv
 - nomadlife

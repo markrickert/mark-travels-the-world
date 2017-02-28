@@ -3,6 +3,7 @@ layout: single
 
 title: RV Home Invasion
 date: '2015-04-18T08:21:27-04:00'
+byline: true
 tags:
 - rv
 - classb

@@ -2,6 +2,7 @@
 layout: single
 title: Goodbye Idaho
 date: '2015-11-21T17:01:43-05:00'
+byline: true
 tags:
 - base
 - basejumping

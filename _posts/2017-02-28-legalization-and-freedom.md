@@ -2,6 +2,7 @@
 title: "Legalization and Freedom"
 layout: single
 date: 2017-02-28 13:50:00 EST
+byline: true
 header:
   teaser: /assets/images/2017-02-28-legalization-and-freedom/simpsons-getting-high.jpg
 ---
