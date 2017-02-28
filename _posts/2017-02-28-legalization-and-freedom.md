@@ -18,7 +18,7 @@ Even just [decriminalization](http://norml.org/aboutmarijuana/item/marijuana-dec
 
 We say that America stands for "freedom" and that we're the "most free" country in the world. But we only pay lip service to freedom. When it comes to the rights of what we do with our own bodies, the government apparently knows best. Why do we not have the freedom to alter our own consciousnesses or make our own decisions about what we put in our bodies?
 
-America is in an [opiate crisis](https://www.hhs.gov/opioids/about-the-epidemic/) right now. Why? Because people went to a doctor and got a prescription for something stronger than they could even find on the street for their pain management. Now they're hooked and when they can't get their legal meds anymore, they switch to heroin or morphine use - drugs readily available on the street. This epidemic has been created by pharmaceutical companies, doctors, and the heavy hand of the U.S. government.
+America is in an [opiate epidemic](https://www.hhs.gov/opioids/about-the-epidemic/) right now. Why? Because people went to a doctor and got a prescription for something stronger than they could even find on the street for their pain management. Now they're hooked and when they can't get their legal meds anymore, they switch to heroin or morphine use - drugs readily available on the street. This epidemic has been created by pharmaceutical companies, doctors, and the heavy hand of the U.S. government.
 
 {% include figure image_path="/assets/images/2017-02-28-legalization-and-freedom/weed.jpg" %}
 
