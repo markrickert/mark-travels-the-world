@@ -30,7 +30,12 @@ Like it or not, [Portugal decriminalized all drugs in 2001](http://www.independe
  - Get the government out of people's personal lives.
  - End the "war on drugs" - it has failed miserably.
  - Focus on helping people who want help through social programs and needle exchanges.
+ - Increase harm reduction awareness and education. People have the right to know what they are putting in their bodies and how it will affect them.
 
 Our models of addiction need to change, and it is changing slowly over time. [Drugs don't cause addiction.](http://theunboundedspirit.com/drugs-dont-cause-addiction-this-short-animated-video-will-change-your-view-on-drugs-forever/) Check out this short video for more info:
 
 {% include video id="ao8L-0nSYzg" provider="youtube" %}
+
+Are you interested in supporting drug policy reform? Sign up for [The Drug Policy Alliance](http://www.drugpolicy.org/) newsletter and consider donating time or money to the cause (I do).
+
+Interested in learning more about harm reduction strategies? Check out [DanceSafe](https://dancesafe.org/) or [purchase a testing kit](https://www.amazon.com/Identify-Diagnostics-Panel-Adulterants-ID-CP12-BUP-ADULT/dp/B01IV1Q0S0/ref=as_li_ss_tl?ie=UTF8&qid=1488312145&sr=8-19&keywords=drug+test+kit&th=1&linkCode=ll1&tag=marktravelsth-20&linkId=1a644b21c09dc7de3fbeec1c44c30ec1) and learn how to use it. You might save someone's life who thinks they're taking MDMA but it's really MDA or ketamine. Knowledge, consent, and awareness is the answer&mdash;not prohibition.
