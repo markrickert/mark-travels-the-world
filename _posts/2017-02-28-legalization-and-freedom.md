@@ -35,6 +35,9 @@ Like it or not, [Portugal decriminalized all drugs in 2001](http://www.independe
  - Focus on helping people who want help through social programs and needle exchanges.
  - Increase harm reduction awareness and education. People have the right to know what they are putting in their bodies and how it will affect them.
 
+> "If the words 'life, liberty, and the pursuit of happiness' don't include the right to experiment with your own consciousness, then the Declaration of Independence isn't worth the hemp it was written on."
+> ― Terence McKenna
+
 Our models of addiction need to change, and it is changing slowly over time. [Drugs don't cause addiction.](http://theunboundedspirit.com/drugs-dont-cause-addiction-this-short-animated-video-will-change-your-view-on-drugs-forever/) Check out this short video for more info:
 
 {% include video id="ao8L-0nSYzg" provider="youtube" %}
