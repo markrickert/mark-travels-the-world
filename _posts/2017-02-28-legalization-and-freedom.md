@@ -11,6 +11,8 @@ I just overheard some people at a restaurant talking about "drugs" and the older
 
 People think that alcohol is perfectly fine to consume just because the all-knowing government has told us it is OK (legal) to use. But if you [look at the research](http://www.economist.com/blogs/dailychart/2010/11/drugs_cause_most_harm) about harm to self and others, alcohol tops the list of drugs... it's worse than heroin and meth! I hate being around large groups of drunk people - just last night, I removed myself from a party where there were lots of inebriated people. It wasn't fun at all.
 
+> To be clear, I don’t think people should use drugs.
+
 As a [Libertarian](http://www.ontheissues.org/Celeb/Libertarian_Party_Drugs.htm), I support the legalization of ALL drugs and completely ending the "war on drugs" [started by President Nixon in 1971](https://web.stanford.edu/class/e297c/poverty_prejudice/paradox/htele.html). People who want to use drugs will do so whether its legal or not. To be clear, I don’t think people should use drugs. But let's not infringe on the freedoms of others by imposing our own ideas of what is "right" or "moral" on everyone else and making it the law of the land.
 
 Even just [decriminalization](http://norml.org/aboutmarijuana/item/marijuana-decriminalization-its-impact-on-use-2) will take money away from cartels (and into the hands of local entrepreneurs), end mass incarceration (and its inherent racism), help with ending the militarization of local police forces, and stop peoples lives from being completely destroyed for simple personal use possession.
