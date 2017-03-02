@@ -6,9 +6,9 @@ byline: true
 tags:
 - rv
 - nomadlife
+header:
+  teaser: /assets/images/2014-09-15-one-month-living-in-a-van/van.jpg
 ---
-
-![My Van]({{ site.url }}/assets/images/2014-09-15-one-month-living-in-a-van/van.jpg)
 
 Today marks my 1 month anniversary of living full time in a Roadtrek Class B RV (1998 Roadtrek 190 Popular). I live with all my worldly possessions in about 140 square feet and it’s amazing!
 
