@@ -30,13 +30,15 @@
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
     {% if teaser %}
       <div class="archive__item-teaser">
-        <img src=
+        <a href="{{ post.link }}">
+          <img src=
           {% if teaser contains "://" %}
             "{{ teaser }}"
           {% else %}
             "{{ teaser | absolute_url }}"
           {% endif %}
           alt="">
+        </a>
       </div>
     {% endif %}
   </article>
