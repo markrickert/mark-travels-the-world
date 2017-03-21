@@ -3,7 +3,7 @@
 $(document).ready(function() {
   $.ajax({
     type: "GET",
-    url: "https://dl.dropboxusercontent.com/u/12954/Automatic/automatictrips.csv.txt",
+    url: "https://dl.dropbox.com/s/6p2ahbtkh2m3cad/automatictrips.csv.txt",
     dataType: "text",
     success: function(data) { processTripData(data); },
     error: function(xhr) { $('.locationWrapper').hide(); }
