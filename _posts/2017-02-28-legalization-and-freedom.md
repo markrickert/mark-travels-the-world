@@ -44,4 +44,4 @@ Our models of addiction need to change, and it is changing slowly over time. [Dr
 
 Are you interested in supporting drug policy reform? Sign up for [The Drug Policy Alliance](http://www.drugpolicy.org/) newsletter and consider donating time or money to the cause (I do).
 
-Interested in learning more about harm reduction strategies? Check out [DanceSafe](https://dancesafe.org/) or [purchase a testing kit](http://amzn.to/2lQiQvN) and learn how to use it. You might save someone's life who thinks they're taking MDMA but it's really MDA or ketamine. Knowledge, consent, and awareness is the answer&mdash;not prohibition.
+Interested in learning more about harm reduction strategies? Check out [DanceSafe](https://dancesafe.org/) or [purchase a testing kit](https://www.amazon.com/gp/product/B00UF4YB7O/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=sl1&tag=marktravels03-20&linkId=fc7c9745487613b0d7d44ac87f8fb1e8) and learn how to use it. You might save someone's life who thinks they're taking MDMA but it's really MDA or ketamine. Knowledge, consent, and awareness is the answer&mdash;not prohibition.
