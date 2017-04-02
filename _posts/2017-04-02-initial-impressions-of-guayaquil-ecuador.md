@@ -31,7 +31,7 @@ Growing up in Florida with its "100% chance of rain every day" during the summer
 
 ## City Fauna
 
-There are dogs and cats running everywhere in the city. You can't really tell if they're wild or a pet because they're usually just laying on the sidewalks.
+There are dogs and cats everywhere in the city. You can't really tell if they're wild or a pet because they're usually just laying on the sidewalks or hanging out near a shop but not close enough to know if it actually belongs to the shopkeeper.
 
 {% include figure image_path="/assets/images/2017-04-02-initial-impressions-of-guayaquil-ecuador/iguana.jpg" %}
 
