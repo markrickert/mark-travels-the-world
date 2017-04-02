@@ -71,6 +71,8 @@ Cars are beeping at you all the time! I've noticed several ways that drivers att
 
 > "The light is red and I'm slowing down, you can start crossing the street in front of me now!"
 
+> "Look at me! I'm beeping my horn!"
+
 See how all the beeping can become confusing?
 
 There are men in high-viz vests waving red rags all over the place. They help people parallel park on the city streets since there is sometimes only a few centimeters between cars. I have yet to determine if they're employed by local businesses, take a donation for their services, or make their money by washing your vehicle while you're going about your activities. Either way, If I was driving around the city I'm sure that I'd appreciate someone telling me how close I was to the car behind me as I'm parallel parking.
