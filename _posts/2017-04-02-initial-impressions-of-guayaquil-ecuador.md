@@ -53,7 +53,7 @@ Doors and windows are left open a lot because of the lack of air conditioning in
 
 ## Getting around the city
 
-Taxis are plentiful in the city, as well as unmarked vehicles that are acting as (I assume) unregistered taxis. I've heard some horror stories, and even my AirBnB host recommends calling a legitimate taxi service to arrange transportation instead of hailing one on the street. My chances of getting ripped off as a foreigner who barely speaks Spanish are much higher so I'll stick to pre-arranged cabs where I know the fare ahead of time.
+Taxis are plentiful, as well as unmarked vehicles that are acting as (I assume) unregistered taxis. I've heard some horror stories, and even my AirBnB host recommends calling a legitimate taxi service to arrange transportation instead of hailing one on the street. My chances of getting ripped off as a foreigner who barely speaks Spanish are much higher so I'll stick to pre-arranged cabs where I know the fare ahead of time.
 
 {% include figure image_path="/assets/images/2017-04-02-initial-impressions-of-guayaquil-ecuador/guayaquil-cigar.jpg" %}
 
