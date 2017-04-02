@@ -93,7 +93,7 @@ I read the other day that putting trash in its place is not part of the Ecuadori
 
 ## People
 
-Overall, I've found Ecuadorians to be very friendly. Many only speak Spanish, but the ones who do speak English are usually very good at it and appreciate the chance to practice with you. Visitors will definitely have a hard time navigating the city if they speak no Spanish. Mine is barely passable but I can get by with a few phrases and "yo no hablo Español" with a shrug.
+Overall, I've found Ecuadorians to be very friendly. Many only speak Spanish, but the ones who do speak English are usually very good at it and appreciate the chance to practice with you. Visitors will definitely have a hard time navigating the city if they speak zero Spanish. Mine is barely passable but I can get by with a few phrases, the [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=en) app, and "yo no hablo Español" with a shrug.
 
 If you've got body modifications like tattoos or non-traditional piercings, expect to be looked at funny. It doesn't seem like there is a big body modification culture here and seeing tattoos on the locals is rare where I have been. I get stared at a lot, but that could also have to do with my height.
 
