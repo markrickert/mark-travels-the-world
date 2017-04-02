@@ -85,6 +85,8 @@ Overall the city is fairly clean and I see guys in orange outfits with brooms an
 
 I read the other day that putting trash in its place is not part of the Ecuadorian cultural consciousness yet, but the government is working on programs in schools to help change that in the next generation. There's also public recycling bins around the city in public spaces that are helping raise awareness of this issue. These bins are particularly prevalent by the waterfront, yet the other day I saw an older man drop a plastic spoon on the boardwalk, look at it, and continue walking.
 
+> You can do better, Ecuador!
+
 {% include figure image_path="/assets/images/2017-04-02-initial-impressions-of-guayaquil-ecuador/isle-santay-trash-1.jpg" %}
 
 {% include figure image_path="/assets/images/2017-04-02-initial-impressions-of-guayaquil-ecuador/isle-santay-trash-2.jpg" %}
