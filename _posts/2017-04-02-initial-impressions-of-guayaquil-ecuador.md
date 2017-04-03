@@ -15,7 +15,7 @@ gallery:
     image_path: /assets/images/2017-04-02-initial-impressions-of-guayaquil-ecuador/animales-3-th.jpg
 ---
 
-I've been in Guayaquil, Ecuador for almost a week now. Typically, when I'm traveling internationally, I just stay at [hostels](https://en.wikipedia.org/wiki/Hostel). But since I'm spending 9 days here before the [Salinas Wingsuit Boogie](https://www.facebook.com/events/955684901229981/) and traveling with thousands of dollars of skydiving equipment, an private AirBnB seemed a lot safer than a shared room hostel. At $35 a night, it's a great deal and it gives me privacy and comfort to work when I'm not exploring the city.
+I've been in Guayaquil, Ecuador for almost a week now. Typically, when I'm traveling internationally, I just stay at [hostels](https://en.wikipedia.org/wiki/Hostel). But since I'm spending 9 days here before the [Salinas Wingsuit Boogie](https://www.facebook.com/events/955684901229981/) and traveling with thousands of dollars of skydiving equipment, a private AirBnB seemed a lot safer than a shared room hostel this trip. At $35 a night, it's a great deal and it gives me privacy and comfort to work when I'm not exploring the city.
 
 {% include figure image_path="/assets/images/2017-04-02-initial-impressions-of-guayaquil-ecuador/panorama.jpg" %}{: .full}
 
