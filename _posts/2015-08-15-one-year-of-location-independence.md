@@ -7,6 +7,7 @@ tags:
 - rv
 - nomadlife
 - reflections
+- vanlife
 header:
   teaser: /assets/images/2015-08-15-one-year-of-location-independence/on_the_road.jpg
 ---

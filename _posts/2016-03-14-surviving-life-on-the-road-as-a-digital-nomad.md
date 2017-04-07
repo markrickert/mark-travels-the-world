@@ -3,6 +3,10 @@ layout: single
 title: Surviving Life on the Road as a Digital Nomad
 date: '2016-03-14T18:26:27-04:00'
 byline: true
+tags:
+- rv
+- vanlife
+- nomadlife
 header:
   teaser: /assets/images/2016-03-14-surviving-life-on-the-road-as-a-digital-nomad/van.jpg
 ---

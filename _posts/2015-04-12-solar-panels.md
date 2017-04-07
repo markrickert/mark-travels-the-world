@@ -9,6 +9,7 @@ tags:
 - nomadlife
 - solar
 - sustainable energy
+- vanlife
 teaser_on_page: false
 header:
   teaser: /assets/images/2015-04-12-solar-panels/panels7.jpg

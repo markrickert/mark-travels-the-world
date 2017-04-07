@@ -5,6 +5,7 @@ date: '2014-09-15T22:00:00-04:00'
 byline: true
 tags:
 - rv
+- vanlife
 - nomadlife
 header:
   teaser: /assets/images/2014-09-15-one-month-living-in-a-van/van.jpg

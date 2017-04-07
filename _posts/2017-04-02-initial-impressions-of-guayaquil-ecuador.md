@@ -4,6 +4,8 @@ layout: single
 date: 2017-04-02 13:50:00 EST
 byline: true
 teaser_on_page: false
+tags:
+- nomadlife
 header:
   teaser: /assets/images/2017-04-02-initial-impressions-of-guayaquil-ecuador/iguana.jpg
 gallery:

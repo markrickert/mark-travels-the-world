@@ -7,6 +7,7 @@ byline: true
 tags:
 - nomadlife
 - rv
+- vanlife
 ---
 
 People seem to be endlessly fascinated by my lifestyle and with endless fascination comes a myriad of questions. Maybe it’s because they don’t understand the lifestyle. Maybe they envy it. Others ask questions because they’re in the process of transitioning to a lifestyle on the road like mine.

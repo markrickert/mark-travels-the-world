@@ -7,6 +7,7 @@ tags:
 - rv
 - nomadlife
 - digital nomad
+- vanlife
 header:
   teaser: /assets/images/2014-10-13-homeless-by-choice/map.jpg
 ---

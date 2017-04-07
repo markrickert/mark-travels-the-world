@@ -12,6 +12,7 @@ tags:
 - glass
 - shatter
 - robbery
+- vanlife
 header:
   teaser: /assets/images/2015-04-18-rv-home-invasion/collage.jpg
 teaser_on_page: false
