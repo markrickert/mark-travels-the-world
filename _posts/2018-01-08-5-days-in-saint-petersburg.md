@@ -128,7 +128,7 @@ Luckily I was in the vicinity of New York City so I could go to the visa office 
 
 I was relieved that when I talked to the agent that all my paperwork was in order! The only problem was that visa applications can take up to 20 days to process and I was leaving the country in 9 days.
 
-So we expedite it... for another $150. Highway robbery! But I paid it because I wanted to go to Russia. They took my passport on a Thursday (yes, they hold onto your acrtual passport during the approval process) and I was able to retrieve it from them with my visa pasted into one of the blank pages the next Tuesday.
+So we expedite it... for another $150. Highway robbery! But I paid it because I wanted to go to Russia. They took my passport on a Thursday (yes, they hold onto your actual passport during the approval process) and I was able to retrieve it from them with my visa pasted into one of the blank pages the next Tuesday.
 
 When it was all said and done, the visa and associated costs (train tickets to/from the city, etc.) cost more than my hostel room in Saint Petersburg!
 
@@ -138,7 +138,7 @@ I was already in Tallinn Estonia for a BASE jumping event, so I went to the trai
 
 I arrived early for the train to make sure I knew what track I needed to be at. Since the ticket was all in Russian, I was a bit apprehensive about making it on the right train at the right time. But there were attendants checking tickets and I had an assigned seat for the duration of the 6.5 hour trip.
 
-The border was an interesting experience. We reached Narva (Estonia's easternmost city) where EU border guards got on the train and checked everyone's passports and got our EU exit stamps. Then the train started back up and we went a few kilometers to the Russian border check. You could definitely tell when we reached the actual border—there was a river and then layers of barbed and razor wire fences. Behind the fences were stations set up with permanent high powered binoculars as well as very mean looking dogs on chains barking at the train. It was all very intimidating. 
+The border was an interesting experience. We reached Narva (Estonia's easternmost city) where EU border guards got on the train and checked everyone's passports and got our EU exit stamps. Then the train started back up and we went a few kilometers to the Russian border check. You could definitely tell when we reached the actual border—there was a river and then layers of barbed and razor wire fences. Behind the fences were stations set up with permanent high powered binoculars as well as very mean looking dogs on chains barking at the train. It was all very intimidating, but I made it through and enjoyed watching the sunset across the Western Russian countryside.
 
 ## Landmarks and experiences
 
