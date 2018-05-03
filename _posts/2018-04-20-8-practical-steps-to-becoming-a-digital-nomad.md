@@ -40,7 +40,7 @@ If you're going to work from the road you've got to be able to communicate with 
 
 Being good at communication on the road often involves dealing with multiple time zones. Sometimes I'm in Europe and my client wants a meeting time that is convenient for them. Convenient Pacific Time sometimes translates to inconvenient Central European Time. Perpetual travel can involve taking meetings at 11pm or even into the wee hours of the morning. I've had my share of 5am meetings too. 
 
-My clients always know what time zone I'm in and are generally acomidating to make sure I don't have to stay up terribly late to talk to them.
+My clients always know what time zone I'm in and are generally accommodating to make sure I don't have to stay up terribly late to talk to them.
 
 ## 4. You must be creative and observant.
 
