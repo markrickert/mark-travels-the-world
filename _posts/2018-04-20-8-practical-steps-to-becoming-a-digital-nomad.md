@@ -80,17 +80,17 @@ I realize that this is a step not many people will be willing to take. You can d
 
 ### Step 3: Figure out how much money you want to make and how much you want to work. 
 
-Let's pick $100,000 out of the air. Mostly because it's a decent salary for a software developer (my industry). Adjust this up or down depending on realistic expectations of your skills and chosen career path.
+Let's pick $80,000 out of the air. Adjust this up or down depending on realistic expectations of your skills and chosen career path.
 
 I like working about 20 hours a week. I tried working 40 hours a week (and sometimes 50!) but it wasn't sustainable for me and only lasted about 3 months before I reached my breaking point. Everyone needs a break here and there, even when working 1/2 time so lets also account for 4 weeks of complete vacation a year. 
 
 That's 960 hours of work a year.
 
-Doing some simple math means that to make $100,000 in 960 hours you need to charge $104/hour. Let's round it up to $105.
+Doing some simple math means that to make $80,000 in 960 hours you need to charge $83.3/hour. Let's round it up to $85.
 
 ### Step 4: Find client(s) willing to pay you that amount or more.
 
-Now some of you will say, "that's completely unrealistic!" But I can tell you from experience that it is not. If you produce high quality work and posses all the attributes I mentioned at the beginning of this article, there are clients out there that will pay $105/hr or more for *Senior level* software consulting. 
+Now some of you will say, "that's completely unrealistic!" But I can tell you from experience that it is not. If you produce high quality work and posses all the attributes I mentioned at the beginning of this article, there are clients out there that will pay $85/hr (or more) for software consulting. 
 
 > This is where the hard work you did in step 1 really pays off.
 
