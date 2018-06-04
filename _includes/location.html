@@ -3,15 +3,16 @@
 $(document).ready(function() {
   // var link = 'Västerås, Sweden';
   // var link = 'Lauterbrunnen. Switzerland';
-  // $('.authorLocation').html(link)
+  var link = 'Norway &amp; Switzerland';
+  $('.authorLocation').html(link)
 
-  $.ajax({
-    type: "GET",
-    url: "https://dl.dropbox.com/s/uvsu6284plvdxvv/AutomaticTrips.csv.txt",
-    dataType: "text",
-    success: function(data) { processTripData(data); },
-    error: function(xhr) { $('.locationWrapper').hide(); }
-   });
+  // $.ajax({
+  //   type: "GET",
+  //   url: "https://dl.dropbox.com/s/uvsu6284plvdxvv/AutomaticTrips.csv.txt",
+  //   dataType: "text",
+  //   success: function(data) { processTripData(data); },
+  //   error: function(xhr) { $('.locationWrapper').hide(); }
+  //  });
 });
 
 function processTripData(allText) {
