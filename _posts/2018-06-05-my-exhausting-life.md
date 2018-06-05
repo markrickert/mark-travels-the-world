@@ -25,9 +25,9 @@ So here's some anti-FOMO for anyone considering the nomadic life.
 *It's exhausting* being in airports, train stations, and bus terminals all the time.  
 *It's exhausting* constantly feeling like an outsider... switching cultures and not knowing if what you're doing is acceptable there.  
 *It's exhausting* not knowing what's going on all the time because I don't speak the language.  
-*It's exhausting* dealing with complicated travel logistics all the time.  
+*It's exhausting* dealing with complicated travel logistics.  
 *It's exhausting* trying to find decent internet speeds to work efficiently.  
-*It's exhausting* finding a camping spot for the night after hours of driving, not quite knowing if you're allowed to sleep there.  
+*It's exhausting* finding a camping spot for the night after hours of driving, not quite knowing if I'm allowed to sleep there.  
 *It's exhausting* having to constantly watch my stuff in unfamiliar locations.  
 *It's exhausting* meeting new people all the time and having the same exact conversation about my unique lifestyle.  
 *It's exhausting* having to find a new place to stay every time I move.  
