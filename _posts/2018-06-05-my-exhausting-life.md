@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/2018-06-05-my-exhausting-life/header.jpg
 ---
 
-Look at [my social media feeds](https://www.instagram.com/markrickert/) and you'll see photos of me smiling! We all do it. Smiling at the airport, smiling on a boat, smiling in Europe, smiling in South America, smiling skydiving, smiling BASE jumping, smiling at a restaurant with our new friends!
+Look at [my social media feeds](https://www.instagram.com/markrickert/) and you'll see photos of me smiling! We all do it. Smiling at the airport, smiling on a boat, smiling in Europe, smiling in South America, smiling skydiving, smiling BASE jumping, smiling at a restaurant with friends!
 
 This is why [FOMO](https://psychcentral.com/blog/fomo-addiction-the-fear-of-missing-out/) exists. We hide the bad parts of our life from the world and promote the good times and that's all our friends and family see. This phenomenon is why it is so hard to know when people are experiencing depression or loneliness.
 
