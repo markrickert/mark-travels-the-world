@@ -50,7 +50,7 @@ Generally, this causes me to retire for the evening earlier than everyone else a
 
 Drinking is expensive! Even more so when you go out to a restaurant or bar. Have you ever added up how much you spend a month on alcohol? For me it was a significant portion of my food budget (I've been enjoying the more expensive craft beers for more than a decade) so cutting it out has made my wallet thicker. Not buying that $7 craft beer with dinner (plus tip!) gives me the opportunity to put that money towards something I feel is more beneficial in my life.
 
-Drinking while traveling can be even more expensive thann at home since you're not likely to know where the cheapest bar in town is. I spend a lot of time in Norway and Switzerland where beers can be extremely pricey.
+Drinking while traveling can be even more expensive than at home since you're not likely to know where the cheapest bar in town is. I spend a lot of time in Norway and Switzerland where beers can be extremely pricey.
 
 ### Socializing
 
@@ -69,13 +69,13 @@ I was meditating a few months ago and started to contemplate the silly thing par
 
 > "You are what you eat!"
 
-I think they say it in an attempt to get the kids to realize that they need to eat healthy, bit I always wound up saying, "I don't want to be broccoli!" I realized that this statement has a lot of truth to it! The things we put in our bodies quite literally **become** us. The proteins and sugars and carbohydrates that make up the food we eat are transformed into energy and form new cells and keep our bodies running. We literally transform food into who we are! Studies have shown that [our diet can even impact our mental health](https://www.thecut.com/2018/03/the-science-of-how-your-diet-affects-your-mental-health.html). It makes total sense because I don't think your brains are meant to run on Twinkies, Doritos, and alcohol.
+I think they say it in an attempt to get the kids to realize that they need to eat healthy, but I always wound up saying, "I don't want to be broccoli!" I realized that this statement has a lot of truth to it! The things we put in our bodies quite literally **become** us. The proteins and sugars and carbohydrates that make up the food we eat are transformed into energy and form new cells and keep our bodies running. We literally transform food into who we are! Studies have shown that [our diet can even impact our mental health](https://www.thecut.com/2018/03/the-science-of-how-your-diet-affects-your-mental-health.html). It makes total sense because I don't think our brains are meant to run on Twinkies, Doritos, and alcohol.
 
 I can't claim to be the healthiest eater out there, but why make things worse by ingesting something I don't think will benefit the way my body works over the long run?
 
 ---
 
-Life is a beautiful ever-changing tapestry. The way we understand the world changes from new experiences, people we meet, lovers gained & lost, heartbreak & triumph… I don't know if this will be a permanent change in my thinking, *but I sure hope so.*
+Life is a beautiful ever-changing tapestry. The way we understand the world changes from new experiences, people we meet, lovers gained & lost, heartbreak & triumph... I don't know if this will be a permanent change in my thinking, *but I sure hope so.*
 
 ---
 
