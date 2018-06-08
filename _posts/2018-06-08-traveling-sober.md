@@ -12,7 +12,7 @@ In July 2017 I had an experience that changed my life and how I view what I put 
 
 {% include figure image_path="/assets/images/2018-06-08-traveling-sober/phyllomedusa-bicolor.jpg" caption="Me holding a Phyllomedusa Bicolor frog" %}
 
-Now you might be thinking, "Oh man, this guy is going around licking frogs and getting high", but I can assure you it is not the psychedelic experience you get from the *Colorado River Toad* (which contains the illegal drug 5-MeO-DMT). Kambo is legal, non-psychoactive, and doesn't take you on a "trip."  Quite the opposite, actually. It's a painful and purgative medicine (it makes you vomit). The experience lasts 30-45 minutes and after it's over you feel like you're walking on a cloud for weeks (yes, **WEEKS**!)
+Now you might be thinking, "Oh man, this guy is going around licking frogs and getting high", but I can assure you it is not the psychedelic experience you get from the [*Colorado River Toad*](https://en.wikipedia.org/wiki/Colorado_River_toad) (which secretes 5-MeO-DMT through glands on its skin). Kambo is legal, non-psychoactive, and doesn't take you on a "trip."  Quite the opposite, actually. It's a painful and purgative medicine (it makes you vomit). The experience lasts 30-45 minutes and after it's over you feel like you're walking on a cloud for weeks (yes, **WEEKS**!)
 
 {% include figure image_path="/assets/images/2018-06-08-traveling-sober/homer-toad-lick.gif" %}
 
