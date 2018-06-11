@@ -71,9 +71,11 @@ I was meditating a few months ago and started to contemplate the silly thing par
 
 > "You are what you eat!"
 
-I think they say it in an attempt to get the kids to realize that they need to eat healthy, but I always wound up saying, "I don't want to be broccoli!" I realized that this statement has a lot of truth to it! The things we put in our bodies quite literally **become** us. The proteins and sugars and carbohydrates that make up the food we eat are transformed into energy and form new cells and keep our bodies running. We literally transform food into who we are! Studies have shown that [our diet can even impact our mental health](https://www.thecut.com/2018/03/the-science-of-how-your-diet-affects-your-mental-health.html). It makes total sense because I don't think our brains are meant to run on Twinkies, Doritos, and alcohol.
+I think they say it in an attempt to get the kids to realize that they need to eat healthy, but I always wound up saying, "I don't want to be broccoli!"
 
-I can't claim to be the healthiest eater out there, but why make things worse by ingesting something I don't think will benefit the way my body works over the long run?
+I realized that this statement has a lot of truth to it! The things we put in our bodies quite literally **become** us. The proteins, sugars and carbohydrates that make up the food we eat are transformed into energy and form new cells and keep our bodies running. We literally transform food into who we are! Studies have shown that [our diet can even impact our mental health](https://www.thecut.com/2018/03/the-science-of-how-your-diet-affects-your-mental-health.html). It makes total sense because I don't think our brains are meant to run on Twinkies, Doritos, and alcohol.
+
+I can't claim to be the healthiest eater out there, but I'm trying. I don't want to make things worse by ingesting something I don't think will benefit the way my body works over the long run.
 
 ---
 
