@@ -50,7 +50,7 @@ Generally, this causes me to retire for the evening earlier than everyone else a
 
 Drinking is expensive! Even more so when you go out to a restaurant or bar. Have you ever added up how much you spend a month on alcohol? For me it was a significant portion of my food budget (I've been enjoying the more expensive craft beers for more than a decade) so cutting it out has made my wallet thicker. Not buying that $7 craft beer with dinner (plus tip!) gives me the opportunity to put that money towards something I feel is more beneficial in my life.
 
-Drinking while traveling can be even more expensive than at home since you're not likely to know where the cheapest bar in town is. I spend a lot of time in Norway and Switzerland where beers can be extremely pricey.
+Drinking while traveling can be even more expensive than at home since you probably won't know where the cheapest bar in town is. I spend a lot of time in Norway and Switzerland where alcohol can be extremely pricey.
 
 ### Socializing
 
