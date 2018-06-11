@@ -10,8 +10,6 @@ header:
 
 In July 2017 I had an experience that changed my life and how I view what I put in my body. I had a treatment of [Kambo](https://en.wikipedia.org/wiki/Phyllomedusa_bicolor)–a traditional South American medicine used by the indigenous tribes in the Amazon Jungle of Peru and Brazil. The medicine is made from the secretion of a large tree frog with no natural predators and is gathered with very little stress to the animal and generally harvested ethically and sustainably. As with most native peoples, they treat the frogs with respect and release it back into the wild in the exact spot they found it.
 
-{% include figure image_path="/assets/images/2018-06-08-traveling-sober/phyllomedusa-bicolor.jpg" caption="Me holding a Phyllomedusa Bicolor frog" %}
-
 Now you might be thinking, "Oh man, this guy is going around licking frogs and getting high", but I can assure you it is not the psychedelic experience you get from the [*Colorado River Toad*](https://en.wikipedia.org/wiki/Colorado_River_toad) (which secretes 5-MeO-DMT through glands on its skin). Kambo is legal, non-psychoactive, and doesn't take you on a "trip."  Quite the opposite, actually. It's a painful and purgative medicine (it makes you vomit). The experience lasts 30-45 minutes and after it's over you feel like you're walking on a cloud for weeks (yes, **WEEKS**!)
 
 {% include figure image_path="/assets/images/2018-06-08-traveling-sober/homer-toad-lick.gif" %}
@@ -27,6 +25,8 @@ You read that right. I no longer consider alcohol to be something I want to put 
 I'm definitely not here to tell you that *you* shouldn't drink. This is a personal decision I've made at this point in my life and I believe personal decisions (much like politics, religion, and spirituality) shouldn't be pushed on others but talked about from an individuals' perspective and let the listener make up their own mind.
 
 I also don't believe in absolutes. I value experiences in life and want to be exposed to as many things as I can. This includes food and drink. So if I'm out with friends and they're ordering something I've never tried, I'll ask for a sip. Similarly, if I'm traveling (when am I *not* traveling?) and there's a regional specialty I'll see if I can get a small sample from the waiter. However, I'd never never order a full glass for myself. I'm not an AA advocate, but I realize that many people need that support system and can't ever let alcohol touch their lips or they spiral back into drinking again. That's not me.
+
+{% include figure image_path="/assets/images/2018-06-08-traveling-sober/phyllomedusa-bicolor.jpg" caption="Holding a Phyllomedusa Bicolor frog" %}
 
 ## Being drunk and being around drunk people is simply not fun for me anymore.
 
