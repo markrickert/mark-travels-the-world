@@ -52,6 +52,8 @@ Drinking is expensive! Even more so when you go out to a restaurant or bar. Have
 
 Drinking while traveling can be even more expensive than at home since you probably won't know where the cheapest bar in town is. I spend a lot of time in Norway and Switzerland where alcohol can be extremely pricey.
 
+Maybe you're traveling to a country without high standards of water quality... you'll think, "drinking beer is safer than water!" You could just invest less than $100 in a [SteriPen](https://www.steripen.com/) and not worry about the water ever again. I used one of these for 10 days in Panama and 3 weeks in Peru. I didn't have a drop of alcohol and never got sick from SteriPen sterilized water.
+
 ### Socializing
 
 I don't need a beer in my hand to have fun with everyone else. Though in social situations, having something to hold onto can ease some of my social anxiety-especially when mingling with new people. So I typically order an Arnold Palmer from the bar. It's 1/3 the price of an alcoholic drink and most people won't even realize It's not a beer since they generally put it in the same type of glass. It also givers me something to do with my hands and to "cheers" with.
