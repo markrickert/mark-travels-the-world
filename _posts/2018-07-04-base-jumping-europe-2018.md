@@ -50,6 +50,8 @@ I get into lots of airport lounges for free as a benefit of my [Chase Sapphire R
 
 # Jumping:
 
+### *1* new BASE rig and parachute
+
 ### *35* total jumps
 
 ### *2* countries jumped
