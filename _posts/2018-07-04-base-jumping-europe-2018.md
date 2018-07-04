@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/2018-07-04-base-jumping-europe-2018/header.jpg
 ---
 
-Flying back to the USA from 45 days in Europe gives me lots of time to think and write. So you're going to get a data nerd's perspective on my Base jumping trip to Europe. I left May 21st, 2018 and I'm returning on July 4th. That's 44 days spent abroad. Good thing I don't have a home or apartment because I just spent 12% of my year away from the USA! That would have been a lot of money paid in rent or mortgage to not use the place!
+Flying back to the USA from 45 days in Europe gives me lots of time to think and write. So you're going to get a data nerd's perspective on my BASE jumping trip to Europe. I left May 21st, 2018 and left on July 4th. That's 44 days spent abroad. Good thing I don't have a home or apartment because I just spent 12% of my year away from the USA! That would have been a lot of money paid in rent or mortgage to not use the place!
 
 {% include figure image_path="/assets/images/2018-07-04-base-jumping-europe-2018/header.jpg" caption="All smiles after landing from a jump off High Nose in Lauterbrunnen, Switzerland. Photo by Rachel Ganapoler." %}
 
