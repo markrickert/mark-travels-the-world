@@ -110,6 +110,6 @@ Yes, more than 2.5 hours!
 
 ---
 
-Here's my spreadsheet if you're intereted. I jotted down the timecodes of launch, deployment, and landing for every jump to gather this data.
+Here's my spreadsheet if you're interested. I jotted down the timecodes of launch, deployment, and landing for every jump to gather this data.
 
 {% include figure image_path="/assets/images/2018-07-04-base-jumping-europe-2018/data.png" caption="Raw data." %}
