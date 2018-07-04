@@ -82,6 +82,8 @@ I get into lots of airport lounges for free as a benefit of my [Chase Sapphire R
 
 I learn a lot from the jumps I don't do. I learn even more from the jumps I do and know I shouldn't have. 
 
+### *0* Injuries
+
 ---
 
 # Misc:
