@@ -34,7 +34,7 @@ Go live your life the way you want to.
 
 Since I hit the road August 15, 2014, I've been to some pretty amazing places!
 
-I've spent over *$15,000* on *75 flights* through *13 countries* and *37 different airports*. This covered over *130,000 miles* (that's 5.22 times around cthe earth and over half way to the moon!)
+I've spent over *$15,000* on *75 flights* through *13 countries* and *37 different airports*. This covered over *130,000 miles* (that's 5.22 times around the earth and over half way to the moon!)
 
 I've driven over *85,000 miles* spending around *$12,000* on gas and diesel with *2* different vans. 
 
