@@ -27,10 +27,10 @@ Running my own software development and consulting company affords me the freedo
 
 I enjoy extreme sports with a focus on flying:
 
+ - Paragliding
+ - BASE jumping
  - Skydiving
  - Wingsuiting
- - BASE jumping
- - Paragliding
  - Skiing (with the goal to eventually speedride)
 
 Join me on my adventure by subscribing to my site in your favorite RSS reader or checking in every once in a while for new content.
