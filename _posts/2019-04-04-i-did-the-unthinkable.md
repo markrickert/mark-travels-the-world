@@ -65,7 +65,7 @@ If you're asking that question you've clearly never been to Utah. This place is 
 {% include figure image_path="/assets/images/2019-04-04-i-did-the-unthinkable/landscape_2.jpg" caption="The Colorado River" %}
 
 
-Everything I want to do is here or clse by. Paragliding, hiking, base jumping, [skydiving](https://skydivemoab.com/), [canyoneering](https://www.instagram.com/moabcanyontours/), mountain biking, climbing, rafting, off-roading, dirt biking! Utah has it all. And world-class skiing is just a few hours away from Moab as well.
+Everything I want to do is here or close by. Paragliding, hiking, base jumping, [skydiving](https://skydivemoab.com/), [canyoneering](https://www.instagram.com/moabcanyontours/), mountain biking, climbing, rafting, off-roading, dirt biking! Utah has it all. And world-class skiing is just a few hours away from Moab as well.
 
 {% include figure image_path="/assets/images/2019-04-04-i-did-the-unthinkable/van_skiing.jpg" caption="Parked at a friend's house near Park City, Utah, I skied over 25 days this season!" %}
 
@@ -75,3 +75,5 @@ I've got big summer plans that don't include me being in Moab! Paragliding in Ca
 
 
 # See? I told you the van wasn't going anywhere 😊
+
+{% include figure image_path="/assets/images/2019-04-04-i-did-the-unthinkable/street_sign.jpg" caption="Home." %}
