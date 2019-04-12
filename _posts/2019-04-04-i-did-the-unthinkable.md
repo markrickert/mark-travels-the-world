@@ -78,5 +78,3 @@ I've got big summer plans that don't include me being in Moab! It can get over 1
 
 
 # See? I told you the van wasn't going anywhere 😊
-
-{% include figure image_path="/assets/images/2019-04-04-i-did-the-unthinkable/street_sign.jpg" caption="Home." %}
