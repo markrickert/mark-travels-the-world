@@ -5,7 +5,7 @@ date: 2019-04-04 16:07:40 MDT
 byline: true
 teaser_on_page: true
 header:
-  teaser: /assets/images/2019-04-04-i-did-the-unthinkable/header.jpg
+  teaser: /assets/images/2019-04-04-i-did-the-unthinkable/header_2.jpg
 ---
 
 ## I bought a house!
