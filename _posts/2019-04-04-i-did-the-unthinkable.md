@@ -3,7 +3,7 @@ title: "I Did The Unthinkable"
 layout: single
 date: 2019-04-04 16:06:40 MDT
 byline: true
-teaser_on_page: false
+teaser_on_page: true
 header:
   teaser: /assets/images/2019-04-04-i-did-the-unthinkable/header.jpg
 ---
